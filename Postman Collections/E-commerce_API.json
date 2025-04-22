@@ -519,7 +519,7 @@
 					"request": {
 						"method": "GET",
 						"header": [],
-						"url": "localhost:8000/api/categories/67f80e94dc66eb225e1319a7/subcategories"
+						"url": "localhost:8000/api/categories/6806bf3ea2a96401c00d0438/subcategories"
 					},
 					"response": []
 				}
